@@ -1,2 +1,5 @@
-# LeagueOfLegends_Campeoes
-Site contendo imagens e informações dos personagens do jogo League of Legends, feito em HTML, CSS e JS
+# League Of Legends - Campeões
+
+Site contendo imagens e informações dos personagens "campeões" do jogo League of Legends.
+
+🔥Acesse o Projeto clicando aqui 👉🏽 
